@@ -1,16 +1,15 @@
-### Hi there 👋
+# Sajjad Murtaza
 
-<!--
-**sajjadmurtaza/sajjadmurtaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Trying to learn & do : Ruby, JS, Python with ML and some secret stuff 
 
-Here are some ideas to get you started:
+## Overview
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![linkedin](https://img.shields.io/badge/-linkedin-171717?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sajjadmurtaza/)](https://www.linkedin.com/in/sajjadmurtaza/)
+[![blog](https://img.shields.io/badge/-blog-171717?style=flat-square&logo=Ghost&logoColor=white&link=https://sajjadmurtaza.wordpress.com/category/ruby-on-rails/)](https://sajjadmurtaza.wordpress.com/category/ruby-on-rails/)
+[![GitHub followers](https://img.shields.io/github/followers/sajjadmurtaza.svg?style=social&label=follow&maxAge=2592000)](https://github.com/sajjadmurtaza?tab=followers)
+
+| **I ~sort of~ am** 	| Stats 	|
+|-	|-	|
+| - Ruby on Rails developer<br>- 6+ years of experience<br>- Ruby Enthusiast, Geek, Cricketer and stuff<br>- Lazy enough to not insert more bullet points here 🤭| ![sajjadmurtaza github stats](https://github-readme-stats.vercel.app/api?username=sajjadmurtaza&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
+
+
