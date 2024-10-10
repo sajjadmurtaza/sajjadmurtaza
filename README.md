@@ -10,6 +10,6 @@
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - Ruby on Rails developer<br>- 8+ years of experience<br>- Ruby Enthusiast, Geek, Cricketer and stuff<br>- 2014: First Ruby on Rails Project [RIMS](https://github.com/sajjadmurtaza/RIMS)<br>-  Lazy enough to not insert more bullet points 🤭| ![sajjadmurtaza github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadmurtaza&layout=pie) 	|
+| - Ruby on Rails developer<br>- Ruby Enthusiast, Geek, Cricketer and stuff<br>- 2014: First Ruby on Rails Project [RIMS](https://github.com/sajjadmurtaza/RIMS)<br><br>  Example Code:<br> https://github.com/sajjadmurtaza/stripe_webhooks<br> https://github.com/sajjadmurtaza/user_accounts_api<br> https://github.com/sajjadmurtaza/match_property<br><br> ![Github stats](https://github-readme-stats.vercel.app/api?username=sajjadmurtaza&rank_icon=github) | ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadmurtaza&layout=pie) 	|
 
 
