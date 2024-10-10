@@ -10,6 +10,6 @@
 
 | **I ~sort of~ am** 	| Stats 	|
 |-	|-	|
-| - Ruby on Rails developer<br>- 6+ years of experience<br>- Ruby Enthusiast, Geek, Cricketer and stuff<br>- 2014: First Ruby on Rails Project [RIMS](https://github.com/sajjadmurtaza/RIMS)<br>-  Lazy enough to not insert more bullet points 🤭| ![sajjadmurtaza github stats](https://github-readme-stats.vercel.app/api?username=sajjadmurtaza&include_all_commits=true&count_private=true&show_icons=true&theme=radical) 	|
+| - Ruby on Rails developer<br>- 8+ years of experience<br>- Ruby Enthusiast, Geek, Cricketer and stuff<br>- 2014: First Ruby on Rails Project [RIMS](https://github.com/sajjadmurtaza/RIMS)<br>-  Lazy enough to not insert more bullet points 🤭| ![sajjadmurtaza github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sajjadmurtaza&layout=pie) 	|
 
 
